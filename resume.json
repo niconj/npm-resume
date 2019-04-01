@@ -1,0 +1,15 @@
+{
+    "Education": [
+        "Finishted Highschool",
+        "Finished University",
+        "Learning German"
+    ],
+    "Past Experiece": [
+        "Estrategias En Accion",
+        "Lagash",
+        "Solstice"
+    ],
+    "Skills": ["Coding", "Acting", "Master of none"],
+    "Projects": ["MercadoTrack"],
+    "Contact": ["jeremias.nicolas@gmail.com"]
+}
