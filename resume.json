@@ -1,15 +1,18 @@
 {
     "Education": [
-        "Finishted Highschool",
-        "Finished University",
-        "Learning German"
+        "Computer Technician - Eduardo Latzina Highschool",
+        "Bachelor's degree in bussiness systems management - CAECE University"
     ],
     "Past Experiece": [
-        "Estrategias En Accion",
-        "Lagash",
-        "Solstice"
+        "Accenture 1.5 years",
+        "Lagash 5 years",
+        "Solstice 1.5 years"
     ],
-    "Skills": ["Coding", "Acting", "Master of none"],
+    "Skills": [".NET", "Javascript", "Angular", "Typescript"],
+    "Languages": [
+        "Spanish - Native",
+        "English - Bilingual",
+        "Italian - Basic"],
     "Projects": ["MercadoTrack"],
     "Contact": ["jeremias.nicolas@gmail.com"]
 }

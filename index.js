@@ -4,6 +4,7 @@ var inquirer = require("inquirer");
 var chalk = require("chalk");
 
 var response = chalk.bold.green;
+var title = chalk.bold.cyan;
 
 var resume = require("./resume.json");
 
@@ -15,7 +16,7 @@ var resumePrompts = {
 };
 
 function main() {
-  console.log("Hello, My name is Nicolas and welcome to my resume");
+  console.log(title("Hello, My name is Nicolas and this is my resume"));
   resumeHandler();
 }
 
